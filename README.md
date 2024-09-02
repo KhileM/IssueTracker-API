@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Issues Tracker API
 
 ## Description
@@ -132,3 +133,6 @@ docker run -p 3000:3000 acdeiiknprv2/issues-tracker:v1.0
 ## Contact
 
 **Project Maintainer:** Kevin Picard - [kevin.picard.au@gmail.com](mailto:kevin.picard.au@gmail.com) - [<a href="tel:0475564651">0475 564 651</a>]
+=======
+This project is a RESTful API built with Node.js, Express, and MongoDB, serving as an issue tracker where users can create, read, update, and delete issues
+>>>>>>> 4b6646e8b90e86a123519aea4bb0cda98278886a

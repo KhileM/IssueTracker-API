@@ -1,2 +1,1 @@
-# IssueTracker-API
-A lightweight REST API server and client application for managing issues (similar to GitHub or Jira) using Flask for the backend and React for the frontend.
+This project is a RESTful API built with Node.js, Express, and MongoDB, serving as an issue tracker where users can create, read, update, and delete issues
